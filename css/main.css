@@ -31,7 +31,7 @@ h1 {
 
 .accordion .label::before {
   content: 'V';
-  color: black;
+  color: hsl(14, 88%, 65%);
   position: absolute;
   top: 50%;
   right: -5px;
